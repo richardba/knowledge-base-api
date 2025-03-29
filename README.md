@@ -55,6 +55,12 @@ cd knowledge-base-api
 npm install
 ```
 
+or
+
+```bash
+yarn install
+```
+
 ### 3. Run the server
 
 ```bash
